@@ -26,7 +26,6 @@ fetch(url, options)
     console.log(title_Lower); //소문자로 변경되었는지 확인
 
     input.addEventListener("keyup", function () {
-      const result_movie = [];
       let lowerInput = input.value.toLowerCase();
 
       let find_title = title_Lower.filter((item) => {
