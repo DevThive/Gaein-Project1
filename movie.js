@@ -3,7 +3,7 @@ const options = {
   headers: {
     accept: "application/json",
     Authorization:
-      "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNjlmYzUwZTIzMjQxOWM3ZDU3Y2RiNDQ0Y2UwM2FjNCIsInN1YiI6IjY1MmYzODE1MGNiMzM1MTZmNjQwYTE3YSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.xGVFf0zlLh7GdUqjn1b4fAE1dC0Nw5n9mPxJ0IYnJbQ",
+      "",
   },
 };
 const url =
